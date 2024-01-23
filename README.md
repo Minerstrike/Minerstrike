@@ -9,6 +9,7 @@
   <li>⚡ Fun fact: Experience is something you only have after you need it</li>
 </ul>
 
+I my first experience with coding was in highschool, we were asked to write simple windows applications. I've always had a nack for numbers, patterns and logic. Discoving coding for the first time was like finding out I could play a puzzle game for the rest of my life. Ever since it's been the only thing I could ever see myself doing.
 
 <!---
 Minerstrike/Minerstrike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
