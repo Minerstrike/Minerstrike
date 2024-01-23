@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Minerstrike
+<h1>Hey I'm micah!👋</h1>
 - 👀 I’m interested in coding, music and language learning
-- 🌱 I’m currently learning C#
-- 📫 How to reach me mrbonzet@gmail.com
+- 🌱 I’m currently working with C#, looking to become a fullstck or frontend developer
+- 📫 How to reach me => mrbonzet@gmail.com
+- 👋 Handle => @Minerstrike
 - ⚡ Fun fact: Experience is something you only have after you need it
 
 <!---
