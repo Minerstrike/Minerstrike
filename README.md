@@ -1,4 +1,4 @@
-<h3>Hey I'm micah!👋</h3>
+<h3>Hey I'm Micah!👋</h3>
 <ul>
   <li>👀 I’m interested in coding, music and language learning</li>
   <li>👾 I’ve been coding in C++/C# for over 2 years</li>
