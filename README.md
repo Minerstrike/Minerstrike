@@ -1,13 +1,12 @@
-<h3>Hey I'm Micah!👋</h3>
-<ul>
-  <li>👀 I’m interested in coding, music and language learning</li>
-  <li>👾 I’ve been coding in C++/C# for over 2 years</li>
-  <li>💻 Looking to do fullstack or backend development</li>
-  <li>🌱 Always looking to learn something new</li>
-  <li>📫 How to reach me => mrbonzet@gmail.com</li>
-  <li>👋 Handle => @Minerstrike</li>
-  <li>⚡ Fun fact: Experience is something you only have after you need it</li>
-</ul>
+### Hey I'm Micah!👋
+
+-   👀 I’m interested in coding, music and language learning
+-   👾 I’ve been coding in C++/C# for over 2 years
+-   💻 Doing fullstack development
+-   🌱 Always looking to learn something new
+-   📫 How to reach me => mrbonzet@gmail.com
+-   👋 Handle => @Minerstrike
+-   ⚡ Fun fact: Experience is something you only have after you need it
 
 My first experience with coding was in highschool, we were asked to write simple windows applications. I've always had a nack for numbers, patterns and logic. Discovering coding for the first time was like finding out I could play a puzzle game for the rest of my life. Ever since it's been the only thing I could ever see myself doing.
 
