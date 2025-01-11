@@ -1,8 +1,9 @@
 ### Hey I'm Micah!👋
 
 -   👀 I’m interested in coding, music and language learning
--   👾 I’ve been coding in C++/C# for over 2 years
--   💻 Doing fullstack development
+-   👾 I’ve been coding personally since I was 15
+-   ⌨ Coding professionally in C# for over 2 years
+-   💻 Currently doing fullstack development
 -   🌱 Always looking to learn something new
 -   📫 How to reach me => mrbonzet@gmail.com
 -   👋 Handle => @Minerstrike
